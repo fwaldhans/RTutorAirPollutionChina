@@ -1,0 +1,12 @@
+Package: RTutorAirPollutionChina
+Type: Package
+Title: RTutor problem set china_ps
+Version: 0.1
+Date: 2023-19-04
+Author: Felix Waldhans
+Maintainer: Felix Waldhans <felix.waldhans@uni-ulm.de>
+Description: RTutor problem on technology in China's War on Air Pollution.
+License: Not yet licensed by the author. The default suggestion for licensing is
+	Problem set content: Creative Commons (CC BY-SA)
+	Package code: GPL >= 2.0
+Depends: RTutor, ggplot2, plotly, haven, dplyr, lubridate, rdrobust, broom, modelsummary, cowplot, lfe, hrbrthemes, ppcor, scales, fastDummies, extrafont, tibble, kableExtra
