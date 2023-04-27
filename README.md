@@ -4,6 +4,7 @@ Welcome to this interactive RTutor problem set on China’s War on Pollution bas
 
 Environmental pollution is a significant global issue, with China being especially affected due to its rapid economic growth in recent decades. This growth has led to a significant increase in air, water, and soil pollution, adversely affecting the health and well-being of billions of people. Therefore, environmental pollution is a highly relevant topic in Chinese politics. This interactive analysis focuses specifically on air pollution, which was also the centerpiece of the War on Pollution declared by the Chinese government in 2014. The initiative included a countrywide, real-time air quality monitoring and reporting program aimed at improving the availability and quality of air pollution data. Prior to the implementation of this new technology, local city governments, which are de facto subordinate to the Chinese central government, collected the data before it was published. As this scenario created a potential principal-agent problem, we will use a Regression Discontinuity (RD) design to analyze if there  is any evidence for structural data manipulation of air pollution data before the new technology was implemented.
 
+
 ## 1. Installation
 
 RTutor and this package is hosted on Github. To install everything, run the following code in your R console.
@@ -28,3 +29,6 @@ run.ps(user.name="Jon Doe", package="RTutorAirPollutionChina",
        auto.save.code=TRUE, clear.user=FALSE)
 ```
 If everything works fine, a browser window should open, in which you can start exploring the problem set.
+
+Due to the amount of data needed for the interactive analysis, it was not possible to publish the problem set on shinyapps.io. 
+However, there is a static version of the problem set available here: [RTutorAirPollutionChina.html](https://htmlpreview.github.io/?https://github.com/fwaldhans/RTutorAirPollutionChina/blob/main/Problem%20Set%20china_ps.html)
