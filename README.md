@@ -31,4 +31,4 @@ run.ps(user.name="Jon Doe", package="RTutorAirPollutionChina",
 If everything works fine, a browser window should open, in which you can start exploring the problem set.
 
 Due to the amount of data needed for the interactive analysis, it was not possible to publish the problem set on shinyapps.io. 
-However, there is a static version of the problem set available here: [RTutorAirPollutionChina.html](https://htmlpreview.github.io/?https://github.com/fwaldhans/RTutorAirPollutionChina/blob/main/Problem%20Set%20china_ps.html)
+However, there is a static version of the problem set available here: [RTutorAirPollutionChina.html](https://htmlpreview.github.io/?https://github.com/fwaldhans/RTutorAirPollutionChina/blob/main/problem_set_china_ps_v2.html)
